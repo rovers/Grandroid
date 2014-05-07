@@ -22,8 +22,7 @@ import org.json.JSONObject;
 
 /**
  * HTTP連線物件，用來擷取網頁的回傳結果，可用在取得JSON字串或網頁HTML的時候，支援POST。
- * test
- * test2
+
  * 
  * @author Rovers
  */
